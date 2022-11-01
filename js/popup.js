@@ -4,7 +4,7 @@ import words from '../data/words.js'
 const milliseconds = 500
 
 // Default value
-let numberOfSearch = 90 
+let numberOfSearch = 40 
 
 // Dom Elements for jQuery purpose
 const domElements = {
